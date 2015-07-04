@@ -34,7 +34,7 @@ As long as your `config.yml` doesn't have a `source.local` section (see [configu
 
 `mkdir ~/.battleschool`
 
-put the following in `~/.battleschool/config.yml` and uncomment the items you want intstalled (remove the #)
+put the following in `~/.battleschool/config.yml` and uncomment the items you want to install (remove the #)
 
     ---
     sources:
